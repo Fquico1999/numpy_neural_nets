@@ -1,2 +1,2 @@
 # numpy_neural_nets
-Implementation of Neural Networks using NumPy
+An implementation of Neural Networks using only NumPy.
